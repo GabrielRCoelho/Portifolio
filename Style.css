@@ -113,5 +113,18 @@ header{
     background-color: rgb(45, 45, 45);
     border-radius: 10px;
     padding: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.projetos-container h3:hover{
+    background-color: rgb(25, 125, 25);
+}
+
+.projetos-container a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
 }
 
