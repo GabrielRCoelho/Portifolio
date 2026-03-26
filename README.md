@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 
 Este projeto consiste no desenvolvimento de um portfólio pessoal com o objetivo de apresentar meus projetos, habilidades e informações de forma clara e organizada.
 
